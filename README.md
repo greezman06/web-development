@@ -1,6 +1,6 @@
 # The complete Web-development bootcamp
 This repository is to showcase my learning from udemy web development course. From this course, I will : 
-- Be able to build ANY website you want.
+- Be able to build ANY website I want.
 
 - Craft a portfolio of websites to apply for junior developer jobs.
 
